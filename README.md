@@ -1,6 +1,5 @@
 
 # NaviGuard: Robot Service Car
-
 NaviGuard is a Robot service car designed to assist people with disabilities. This Arduino-based vehicle is equipped with the primary feature of obstacle avoidance. 
 
 ## Inspiration
